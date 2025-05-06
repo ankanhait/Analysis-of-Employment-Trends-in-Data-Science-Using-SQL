@@ -1,1 +1,1 @@
-# Analysis-of-Employment-Trends-in-Data-Science-Using-SQL
+This project analyzes global job market trends in the data science domain using structured SQL queries on a real-world dataset. The aim is to uncover key insights related to job roles, locations, salaries, experience levels, and remote work opportunities.
